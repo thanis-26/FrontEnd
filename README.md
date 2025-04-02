@@ -22,7 +22,7 @@ A modern web application that shows real-time weather data, a 7-day forecast cha
 ## 📦 Getting Started
 
 ```bash
-git clone https://github.com/your-username/weather-outfit-app.git
+git clone https://github.com/thanis-26/weather-outfit-app.git
 cd weather-outfit-app
 npm install
 npm run dev
